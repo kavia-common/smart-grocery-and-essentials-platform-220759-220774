@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-grocery-and-essentials-platform-220759-220774/postgresql_database"
+}
